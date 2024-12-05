@@ -1,7 +1,7 @@
 <div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%bb61d9&size=32&center=true&vCenter=true&width=600&height=50&lines=👋Hi+I'm+Virjinia🚀;⚙️Computer+Systems+Engineer👩‍💻;🎨Front-End+Engineer🌐" alt="Headline" />
-        <img src="https://readme-typing-svg.herokuapp.com?color=%bb61d9&size=32&center=true&vCenter=true&width=600&height=50&lines=👾Hola+Soy+Virjinia👩‍💻;🖥️Ing.Sistemas+Computacionales🧠;🖥️Ingeniera+Front-End🖌️" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%bb61d9&size=32&center=true&vCenter=true&width=600&height=50&lines=👋Hi+I'm+Virjinia🚀;⚙️Computer+Systems+Engineer👩‍💻;🎨Front-End+Engineer🌐" alt="Headline"/>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%bb61d9&size=32&center=true&vCenter=true&width=600&height=50&lines=👾Hola+Soy+Virjinia👩‍💻;🖥️Ing.Sistemas+Computacionales🧠;🖥️Ingeniera+Front-End🖌️" alt="Headline"/>
         </div>
         <div align=center>
         <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ywok35ynjducmohley1.gif" alt="Programming" height="150">
