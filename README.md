@@ -15,6 +15,6 @@
 <h2 align="center">Connect with me! / ¡Conecta conmigo!</h2>
 <div align=center>
     <a href="https://www.linkedin.com/in/virjinia-genaro-morales-0258b226b"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" height="40" /></a>
-        <a href="https://mail.google.com/mail/u/0/?ogbl#inbox/FMfcgzQXKWjgdNQDPbCXSRMstpzxpCxC?compose=CllgCHrlGBCbtbnMghzVLfPrrrLZbWMtZHpLmJhrGssXRZJlbtlXBZkKPhhjFxjNpRCbwTqqpNV"><img src="https://github.com/user-attachments/assets/30e05ba7-1b11-48c5-a206-5e2455513717" alt="Gmail" height="40" /></a>
+        <a href="https://mail.google.com/mail/u/0/?ogbl#inbox/FMfcgzQXKWjgdNQDPbCXSRMstpzxpCxC?compose=CllgCHrlGBCbtbnMghzVLfPrrrLZbWMtZHpLmJhrGssXRZJlbtlXBZkKPhhjFxjNpRCbwTqqpNV"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail" height="40" /></a>
     </div>
 </div>
